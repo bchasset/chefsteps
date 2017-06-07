@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+
+textarea {
+  height: 250px;
+  width: 100%;
+}
+
+button {
+  display: block;
+}
+
+li {
+  list-style-type: none;
+}
